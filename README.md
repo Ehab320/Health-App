@@ -1,2 +1,4 @@
 # Health-App
-Capstone
+Senior Project:
+Health Application
+Ethan Haberman
